@@ -1,5 +1,3 @@
-# ikinci-html
-2. ödev
 <h1>Duygu Lina Yurtseven</h1>
 <h2>Hakkımda</h2>
 <p>Adım Duygu Lina. Dizi izlemeyi, kitap okumayı ve şarkı dinlemeyi severim. </p>
